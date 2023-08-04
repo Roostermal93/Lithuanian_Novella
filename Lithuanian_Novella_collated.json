@@ -1,0 +1,28 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "f3c37234-4b03-49dd-865c-a965058c2e82",
+            "collectionId": "Lithuanian",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Lithuanian/Lithuanian_Novella/f3c37234-4b03-49dd-865c-a965058c2e82/f3c37234-4b03-49dd-865c-a965058c2e82_lt_Male.mp4"
+        },
+        {
+            "id": "4dd2e566-2f59-4b53-90d0-0cc58a1e00eb",
+            "collectionId": "Lithuanian",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Lithuanian/Lithuanian_Novella/4dd2e566-2f59-4b53-90d0-0cc58a1e00eb/4dd2e566-2f59-4b53-90d0-0cc58a1e00eb_lt_Male.mp4"
+        },
+        {
+            "id": "aa6fceba-253e-4cda-8a13-12d46bd553df",
+            "collectionId": "Lithuanian",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Lithuanian/Lithuanian_Novella/aa6fceba-253e-4cda-8a13-12d46bd553df/aa6fceba-253e-4cda-8a13-12d46bd553df_lt_Male.mp4"
+        }
+    ]
+}
